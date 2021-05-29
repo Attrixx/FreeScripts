@@ -989,5 +989,3 @@ function Library:init(name)
     end
     return items
 end
-
-return Library
